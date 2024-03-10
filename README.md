@@ -1,7 +1,7 @@
 # Digital-Dynamos
 
 ## Prototype Drive Link
-       https://drive.google.com/file/d/1zcsOL9arxRbZaUpUnsy_TpshNiMcTb7J/view?usp=sharing
+       https://drive.google.com/drive/folders/1CFYpbzCil_wYwrfr18pRuptMzQjCA8eA
 
 1. **Files:**
    - `index.html`: This is the HTML file where users can upload either a PDF or an image file.
